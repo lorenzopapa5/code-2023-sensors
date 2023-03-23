@@ -1,4 +1,4 @@
-# Lightweight and energy-aware monocular depth estimation models: challenges and performances in terrestrial and underwater scenarios
+# [Lightweight and energy-aware monocular depth estimation models: challenges and performances in terrestrial and underwater scenarios](https://doi.org/10.3390/s23042223)
 
 ## Train/Test Datasets:
 
